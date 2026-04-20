@@ -28,10 +28,9 @@ A modern, privacy-focused web app that scans product ingredient labels and detec
 
 ## 🖼️ Screenshots
 
-![Home](Screenshot 2026-04-21 023725.png)
-![Profile](Screenshot 2026-04-21 023746.png)
-![Scan](Screenshot 2026-04-21 023758.png)
-
+![Home](home.png)
+![Profile](profile.png)
+![Scan](scan.png)
 ---
 
 ## 🧠 Development Approach
